@@ -131,7 +131,7 @@ Business-Intelligence-Dashboard/
 ├── Superstore.csv
 ├── README.md
 │
-└── Images/
+└── Assets/
     ├── executive-dashboard.png
     ├── sales-dashboard.png
     ├── product-dashboard.png
