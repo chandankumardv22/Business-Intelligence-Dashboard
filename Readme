@@ -1,0 +1,113 @@
+# 📊 Business Intelligence Dashboard Suite | Power BI
+
+A comprehensive **Business Intelligence Dashboard Suite** built using **Microsoft Power BI** to transform raw sales data into meaningful business insights. This project focuses on analyzing business performance through interactive dashboards, enabling data-driven decision-making.
+
+---
+
+## 🚀 Project Overview
+
+This repository contains **five interactive Power BI dashboards** developed using the Superstore dataset:
+
+- 📌 Executive Dashboard
+- 📈 Sales Analysis Dashboard
+- 📦 Product Performance Dashboard
+- 👥 Customer Analysis Dashboard
+- 💰 Financial Analysis Dashboard
+
+Each dashboard provides unique insights into different aspects of business performance through dynamic visualizations and KPIs.
+
+---
+
+## ✨ Key Features
+
+- Interactive KPI Cards
+- Sales & Profit Analysis
+- Customer Analytics
+- Product Performance Tracking
+- Financial Performance Analysis
+- Regional Business Insights
+- Dynamic Filters & Slicers
+- Professional Dashboard Design
+- Business Intelligence Reporting
+
+---
+
+## 🛠 Tech Stack
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Superstore Dataset (CSV)
+
+---
+
+## 📊 Dashboards Included
+
+| Dashboard | Description |
+|-----------|-------------|
+| Executive Dashboard | Overall business performance overview |
+| Sales Analysis | Sales trends, regions, and category insights |
+| Product Performance | Product-wise sales and profitability |
+| Customer Analysis | Customer behavior and lifetime value |
+| Financial Analysis | Revenue, profit, and financial KPIs |
+
+---
+
+## 📈 Business Insights
+
+This dashboard suite helps answer questions like:
+
+- Which products generate the highest revenue?
+- Which regions perform the best?
+- Who are the most valuable customers?
+- How are sales and profits trending over time?
+- Which products require business attention?
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Business Intelligence
+- Data Visualization
+- Dashboard Design
+- Power Query
+- DAX
+- Data Modeling
+- KPI Development
+- Business Analytics
+
+---
+
+## 📂 Repository Structure
+
+```
+📁 Business-Intelligence-Dashboard
+│── Executive Dashboard.pbix
+│── Sales Analysis Dashboard.pbix
+│── Product Performance Dashboard.pbix
+│── Customer Analysis Dashboard.pbix
+│── Financial Analysis Dashboard.pbix
+│── Superstore.csv
+└── README.md
+```
+
+---
+
+## 📸 Dashboard Preview
+
+> Add screenshots of each dashboard here for a better GitHub presentation.
+
+---
+
+## 👨‍💻 Author
+
+**Chandan Kumar DV**
+
+🔗 LinkedIn: https://www.linkedin.com/in/chandankumardv22/
+
+💻 GitHub: https://github.com/chandankumardv22
+
+---
+
+⭐ **If you found this project useful, consider giving it a star!**
